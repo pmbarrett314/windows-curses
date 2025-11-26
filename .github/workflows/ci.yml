@@ -31,22 +31,22 @@ jobs:
         # Python 3.6
         - python: '3.6'
           builder: windows-2022
-          toolset: '14.25' # Visual Studio 2019
+          toolset: '14.29' # Visual Studio 2019
           winsdk: '10.0.14393.0' # Windows 10 1607
         # Python 3.7
         - python: '3.7'
           builder: windows-2022
-          toolset: '14.25' # Visual Studio 2019
+          toolset: '14.29' # Visual Studio 2019
           winsdk: '10.0.14393.0' # Windows 10 1607
         # Python 3.8
         - python: '3.8'
           builder: windows-2022
-          toolset: '14.25' # Visual Studio 2019
+          toolset: '14.29' # Visual Studio 2019
           winsdk: '10.0.14393.0' # Windows 10 1607
         # Python 3.9
         - python: '3.9'
           builder: windows-22022
-          toolset: '14.25' # Visual Studio 2019
+          toolset: '14.29' # Visual Studio 2019
           winsdk: '10.0.14393.0' # Windows 10 1607
         # Python 3.10
         - python: '3.10'
